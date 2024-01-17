@@ -1,4 +1,9 @@
 
+.vs/VSWorkspaceState.json
+.vs/SwanFinancialApp/v17/.wsuo
 *.vsidx
 *.vsidx
 *.sqlite
+*.vsidx
+*.sqlite
+.vs/slnx.sqlite

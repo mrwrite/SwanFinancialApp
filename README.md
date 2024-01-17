@@ -7,7 +7,7 @@ This project aims to create a comprehensive personal finance management app that
 - **Account Aggregation**: Securely link various bank accounts, credit cards, and investment accounts.
 - **Expense Tracking**: Automatically categorize expenses and manage budgets.
 - **Investment Tracking**: Monitor investment accounts and portfolio performance.
-- **...** [Continue with other features]
+
 
 ## Technology Stack
 - Frontend: [Your chosen technologies]
