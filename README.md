@@ -10,10 +10,10 @@ This project aims to create a comprehensive personal finance management app that
 
 
 ## Technology Stack
-- Frontend: [Your chosen technologies]
-- Backend: [Your chosen technologies]
-- Database: [Your chosen database]
-- Additional Tools: [Any other tools]
+- **Frontend**: Single Page Application (SPA) using Angular. This provides a responsive and interactive user experience.
+- **Backend**: .NET API implementing Command Query Responsibility Segregation (CQRS) pattern. This allows for a scalable and maintainable codebase.
+- **Database**: SQL Server used in conjunction with Entity Framework for robust data management and complex queries.
+- **Additional Tools**: [List any other tools or libraries used in the project, like Docker, Kubernetes, or specific npm packages]
 
 ## Contribution Guidelines
 Contributions are welcome! Please read our [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
