@@ -1,4 +1,4 @@
-# SwanFinancialApp
+# Swan Financial App
 
 ## Introduction
 This project aims to create a comprehensive personal finance management app that helps users track and manage their financial activities. It includes features like account aggregation, expense tracking, budgeting tools, investment tracking, and more.
