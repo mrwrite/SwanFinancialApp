@@ -7,3 +7,8 @@
 *.vsidx
 *.sqlite
 .vs/slnx.sqlite
+*.sqlite
+*.v2
+Swan/.vs/Swan/v17/.suo
+*.cache
+*.editorconfig
