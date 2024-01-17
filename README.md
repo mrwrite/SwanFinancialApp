@@ -20,3 +20,15 @@ Contributions are welcome! Please read our [Contribution Guidelines](CONTRIBUTIN
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Branch Management
+
+We use Git-flow for our branch management. Here's our workflow:
+
+- `master` branch for stable releases.
+- `develop` branch for ongoing development.
+- Feature branches (`feature/*`) for new features.
+- Release branches (`release/*`) for preparing releases.
+- Hotfix branches (`hotfix/*`) for quick fixes in production.
+
+Please follow these guidelines when contributing to the project.
